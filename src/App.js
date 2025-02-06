@@ -7,7 +7,7 @@
 * Licensed under MIT (https://github.com/creativetimofficial/muse-ant-design-dashboard/blob/main/LICENSE.md)
 * Coded by Creative Tim
 =========================================================
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. kin
 */
 import { Switch, Route, Redirect } from "react-router-dom";
 import Home from "./pages/Home";
